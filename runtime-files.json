@@ -1,0 +1,17 @@
+[
+  "index.html",
+  "manifest.webmanifest",
+  "css/splash.css",
+  "js/app.js",
+  "js/audio.js",
+  "js/core.js",
+  "js/paint.js",
+  "js/storage.js",
+  "assets/dino.png",
+  "assets/font-bold.woff",
+  "assets/font-regular.woff",
+  "assets/icon-192.png",
+  "assets/icon-512.png",
+  "assets/room.webp",
+  "assets/unicorn.png"
+]
